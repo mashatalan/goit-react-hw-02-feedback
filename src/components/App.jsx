@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
-import Layout from './Layout';
-import Section from './Section';
-import FeedbackOptions from './FeedbackOptions';
-import { Statistics } from './Statistics/Statistics';
-import Notification from './Notification';
+import Layout from 'components/Layout';
+import Section from 'components/Section';
+import FeedbackOptions from 'components/FeedbackOptions';
+import { Statistics } from 'components/Statistics/Statistics';
+import Notification from 'components/Notification';
 
 
 export class App extends Component {
